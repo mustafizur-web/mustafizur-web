@@ -1,6 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafizur-web&label=Profile%20views&color=0e75b6&style=flat" alt="mustafizur-web" /> </p>
 <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafizur-web&label=Profile%20views&color=0e75b6&style=flat" alt="mustafizur-web" /> </p>
+
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Welcome to My Profile  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
